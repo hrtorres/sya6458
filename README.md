@@ -1,2 +1,2 @@
-# syg6458
+# sya6458
 UCF GIS and Society 
